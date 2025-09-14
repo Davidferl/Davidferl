@@ -1,3 +1,5 @@
 🤖 Software Developer @Botpress
-👀 Interested in programming and everything related to computers from hardware to the cloud.
+
+👀 Interested in everything related to computers.
+
 📫 david.ferland.swe@gmail.com
